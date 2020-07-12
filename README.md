@@ -14,4 +14,4 @@ A social media site based on github that connects developers with similar/comple
 
 
 
-Down below you can find organized repositories for many projects I have worked on in the past
+### Down below you can find organized repositories for many projects I have worked on in the past
