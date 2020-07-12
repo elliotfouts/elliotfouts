@@ -1,16 +1,17 @@
-### Hi there 👋
+Hello and welcome!
 
-<!--
-**elliotfouts/elliotfouts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here is a list of projects I am currently working on! 
 
-Here are some ideas to get you started:
+## Grocer-ease 
+A virtual grocery list featuring multiple authentication options, PWA functionality, and web scraping for up to date images 
+##### Upcoming Features 
+- Offline functionality using IndexedDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitFriends
+A social media site based on github that connects developers with similar/complementary talents in order to encourage collaboration and friendship 
+##### Upcoming Features 
+- the actual app
+
+
+
+Down below you can find organized repositories for many projects I have worked on in the past
