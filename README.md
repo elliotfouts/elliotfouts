@@ -1,6 +1,6 @@
-Hello and welcome!
+Hello,
 
-Here is a list of projects I am currently working on! 
+Here is a list of projects I am currently working on:
 
 ## Grocer-ease 
 A virtual grocery list featuring multiple authentication options, PWA functionality, and web scraping for up to date images 
@@ -14,4 +14,4 @@ A social media site based on github that connects developers with similar/comple
 
 
 
-### Down below you can find organized repositories for many projects I have worked on in the past
+### Down below you can find organized repositories for projects I have completed
