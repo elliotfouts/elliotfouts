@@ -1,12 +1,3 @@
 Hello,
 
-Here is a list of projects I am currently working on:
-
-## Grocer-ease 
-A virtual grocery list featuring multiple authentication options, PWA functionality, and web scraping for up to date images 
-##### Upcoming Features 
-- Offline functionality using IndexedDB
-
-
-
-### Down below you can find organized repositories for projects I have completed
+I am not currently working on indepdendent projects as I am studying full-time and working at www.duffl.com. Please feel free to explore my past projects which are organized into repos down below
