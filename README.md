@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I use Gitlab for work!
+I use Gitlab my work at [Duffl](https://www.duffl.com/)!
 
 <!--
 **elliotfouts/elliotfouts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
