@@ -2,6 +2,10 @@
 
 I use Gitlab my work at [Duffl](https://www.duffl.com/)!
 
+Links:
+- [LinkedIn](https://www.linkedin.com/in/elliotfouts)
+- [Resume](https://docs.google.com/document/d/1VSeKXeAqRjzJUKLg4LI6MIREkEZb1fxDI8TkCcCbOoI/edit?usp=sharing)
+
 <!--
 **elliotfouts/elliotfouts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
