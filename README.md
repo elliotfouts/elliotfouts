@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I use Gitlab my work at [Duffl](https://www.duffl.com/)!
+I use Gitlab for my work at [Duffl](https://www.duffl.com/)!
 
 Links:
 - [LinkedIn](https://www.linkedin.com/in/elliotfouts)
